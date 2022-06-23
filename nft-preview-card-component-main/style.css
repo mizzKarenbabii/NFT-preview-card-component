@@ -1,7 +1,27 @@
-.body {
-    background-color: black;
+body {
+    background-color:darkblue;
 }
 
-h1{
-    color: aqua;
+h1, p{
+    color: blue;
 }
+
+.container {
+    position: relative;
+    align-content: center;
+}
+
+.cube {
+    width: 100px;
+    height: 100px;
+    border-radius: 9px;
+}
+.attribution {
+    color: grey;
+    position: relative;
+    align-content: center;
+    top: 100px;
+
+}
+
+
